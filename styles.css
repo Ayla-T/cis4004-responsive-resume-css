@@ -1,9 +1,11 @@
 @media  screen and (min-width: 1920px) {
-    
+    body{
+        font-size: 250%;
+    }
 }
 
-@media screen and (max-width: 421px) {
+@media screen and (max-width: 412px) {
     body {
-        font-size: 12px;
+        font-size: 80%;
     }
 }
