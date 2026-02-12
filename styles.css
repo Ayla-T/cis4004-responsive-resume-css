@@ -1,11 +1,14 @@
 @media  screen and (min-width: 1920px) {
     body{
         font-size: 250%;
+        background-color: lightblue;
     }
+
 }
 
 @media screen and (max-width: 412px) {
     body {
-        font-size: 80%;
+        background-color: lightgreen;
+        font-size: 70%;
     }
 }
